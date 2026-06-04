@@ -1,7 +1,7 @@
 ################################################################################
 # MODULE: ODK-means Algorithm & Synthetic Data Generation (Tethraset)
 # PROJECT: ODK-means: A Simultaneous Approach to Clustering and Outliers Detection
-# AUTHOR: Tiziano Iannaccio
+# AUTHOR:
 # DESCRIPTION: 
 # This library implements the ODK-means clustering algorithm, which uses a 
 # probabilistic "isolation" metric to detect outliers during the optimization
