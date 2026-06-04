@@ -1,7 +1,7 @@
 ################################################################################
 # SCRIPT: Real Data Application - Old Faithful Geyser Dataset
 # PROJECT: ODK-means: A Simultaneous Approach to Clustering and Outliers Detection
-# AUTHOR: Tiziano Iannaccio
+# AUTHOR: 
 # DESCRIPTION: 
 # This script executes the comparative analysis presented in Section 8 of the 
 # manuscript. It evaluates ODK-means against Trimmed K-means and LOF using 
