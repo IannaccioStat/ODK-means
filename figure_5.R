@@ -1,7 +1,7 @@
 ################################################################################
 # SCRIPT: Figure 5 - Tethra Dataset Generation 
 # PROJECT: ODK-means: A Simultaneous Approach to Clustering and Outliers Detection
-# AUTHOR: Tiziano Iannaccio
+# AUTHOR: 
 # DESCRIPTION: 
 # This script generates and visualizes the synthetic 3D "Tethra" dataset. 
 # It illustrates the geometric framework of the ODK-means model by plotting 
