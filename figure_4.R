@@ -1,7 +1,7 @@
 ################################################################################
 # SCRIPT: Figure 4 - Conceptual Map: Cell-wise vs. Row-wise Outliers
 # PROJECT: ODK-means: A Simultaneous Approach to Clustering and Outliers Detection
-# AUTHOR: Tiziano Iannaccio
+# AUTHOR: 
 # DESCRIPTION: 
 # This script generates a conceptual visualization to distinguish between 
 # different types of anomalies. It simulates a concentrated central mass of 
